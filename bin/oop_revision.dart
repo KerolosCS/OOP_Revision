@@ -12,7 +12,7 @@ void main() {
   // employee1.eat();
 
 
-//polymorphism
+//encapsulation
   // print(person1.age);
   // person1.age = 40;
   // print(person1.age);
